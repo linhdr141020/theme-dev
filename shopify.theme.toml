@@ -1,0 +1,2 @@
+[environments.development]
+store = "https://linhlv-test-app.myshopify.com/"
